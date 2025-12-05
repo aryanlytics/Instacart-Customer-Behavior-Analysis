@@ -315,7 +315,7 @@ Instacart should stop treating all low-reorder categories as problems to solve. 
 
 <br>
 
-**The Question**
+
 
 
 ## **The Question**
